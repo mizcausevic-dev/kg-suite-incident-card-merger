@@ -1,0 +1,7 @@
+{
+  "incident_id": "STRATOS-INC-2026-DFARS-0011-DUP",
+  "contractor": { "cage_code_tokenized": "tok_cage_STRATOS_AERO_1A2B3" },
+  "event_type": "dfars-72-hour-cyber-incident",
+  "occurred_at": "2026-11-03T17:48:00Z",
+  "severity": "S2-critical"
+}

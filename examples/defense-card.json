@@ -1,0 +1,9 @@
+{
+  "incident_id": "STRATOS-INC-2026-DFARS-0011",
+  "contractor": { "cage_code_tokenized": "tok_cage_STRATOS_AERO_1A2B3" },
+  "event_type": "dfars-72-hour-cyber-incident",
+  "occurred_at": "2026-11-03T17:45:00Z",
+  "severity": "S2-critical",
+  "dfars_72_hour_report_filed": { "report_id": "STRATOS-DFARS-2026-0011", "filed_at": "2026-11-04T15:30:00Z" },
+  "public_disclosure_posture": { "dibnet_reported": true, "ddtc_voluntary_disclosure_filed": false, "bis_voluntary_disclosure_filed": false }
+}

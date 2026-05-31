@@ -1,0 +1,16 @@
+{
+  "name": "kg-suite-incident-card-merger",
+  "version": "0.1.0",
+  "description": "Merges N KG Suite Incident Cards from any verticals into a deduplicated cross-vertical incident timeline + regulator-referral matrix. Buyer-side procurement reviewers need this when a multi-vertical SaaS vendor publishes several Incident Cards over months and the buyer needs the consolidated picture.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "bin": { "kg-suite-incident-merge": "src/cli.mjs" },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "start": "node src/cli.mjs"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mizcausevic-dev/kg-suite-incident-card-merger",
+  "repository": { "type": "git", "url": "git+https://github.com/mizcausevic-dev/kg-suite-incident-card-merger.git" },
+  "keywords": ["kinetic-gain-protocol-suite", "incident-card", "merger", "cross-vertical", "horizontal-tool"]
+}
